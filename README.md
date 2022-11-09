@@ -8,7 +8,7 @@
 <a href="mailto:dev@luisfelipesantos.com.br"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
-  <li>🧑‍💻 I'm a Javascript Developer from <b>Olímpia, SP,   <img src="https://cdn-icons-png.flaticon.com/512/4646/4646609.png" width="15"/>   Brasil</b>;</li>
+  <li>🧑‍💻 I'm a Javascript Developer from <b>São José do Rio Preto, SP,   <img src="https://cdn-icons-png.flaticon.com/512/4646/4646609.png" width="15"/>   Brasil</b>;</li>
   <li>💾 I'm working with React Native, ReactJS, NodeJS, Vanilla JS, Git and Notion;</li>
   <li>😍 Passionate about education and problem solution through programming;</li>
   <li>😊 Willing to contribute in opensource development projects;</li>
